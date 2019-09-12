@@ -1,0 +1,11 @@
+.header {
+    grid-area: h;
+    background-color: #48ff15;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
